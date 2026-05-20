@@ -5,9 +5,9 @@
         "feladat": "It is responsible for auditing the spending of public funds and supervising the legality of the financial management of political parties. In that respect it may impose payment obligations for political parties.",
         "nevpoziciok": [
             {
-                "nevpozicio": "László Domokos (President)",
-                "datestart": "2010.07.05.",
-                "dateend": "2022.07.05."
+                "nevpozicio": "Dr. László Windisch (President)",
+                "datestart": "2022.07.06.",
+                "dateend": "2034.07.05."
             }
         ]
     },
@@ -17,9 +17,9 @@
         "feladat": "It is a body supporting the legislative work of the National Assembly. The adoption of the act on the budget requires the consent of the Council, which may refuse to give its consent if, in its view, the proposal of the budget does not comply with the rules on public debt control. It may also veto the amendment of the adopted budget and may significantly limit the margins of fiscal maneuver of the Government or the Parliament.",
         "nevpoziciok": [
             {
-                "nevpozicio": "Dr. Árpád Kovács (President)",
-                "datestart": "2012.01.10.",
-                "dateend": "2024.01.10."
+                "nevpozicio": "Gábor Horváth (President)",
+                "datestart": "2024.01.10.",
+                "dateend": "2030.01.09."
             }
         ]
     },
@@ -29,9 +29,9 @@
         "feladat": "It is the highest forum in the organizational structure of the judiciary, its responsibilities include legal harmonization as part of which a limited case-law system has been introduced in 2020. Accordingly, lower courts may deviate from the judgments of the Curia only by expressly referring to the reasons thereof. Its President, beside his authority over courts, has a substantial role in the assignment of cases to judges, in determining the composition of judicial chambers and the promotion of judges within the Curia.",
         "nevpoziciok": [
             {
-                "nevpozicio": "dr.  András Varga Zs. (President)",
+                "nevpozicio": "Dr. András Zs. Varga (President)",
                 "datestart": "2021.01.02.",
-                "dateend": "2029.01.02."
+                "dateend": "2030.01.01."
             }
         ]
     },
@@ -41,9 +41,9 @@
         "feladat": "It is the highest organ within the organizational structure of the prosecution, and the representative of the state’s monopoly of prosecution. The Prosecutor General has a decisive influence on laying and representing charges by prosecutors. If the prosecution lays no charges, the courts cannot proceed in the case.",
         "nevpoziciok": [
             {
-                "nevpozicio": "dr. Péter Polt (Prosecutor General)",
-                "datestart": "2010.12.14.",
-                "dateend": "2028.12.15."
+                "nevpozicio": "Dr. Gábor Bálint Nagy (Prosecutor General)",
+                "datestart": "2025.06.11.",
+                "dateend": "2034.06.10."
             }
         ]
     },
@@ -55,7 +55,7 @@
             {
                 "nevpozicio": "Dr. György Barna Senyei (President)",
                 "datestart": "2019.12.10.",
-                "dateend": "2028.12.10."
+                "dateend": "2028.12.09."
             }
         ]
     },
@@ -65,9 +65,9 @@
         "feladat": "It is responsible for monitoring the observance of rights and obligations related to data protection and freedom of information. It may initiate administrative procedures for data protection against natural and legal persons alike, and it has an influence on developing the case-law related to the access to data of public interest.",
         "nevpoziciok": [
             {
-                "nevpozicio": "dr. Attila Péterfalvi (President)",
-                "datestart": "2012.01.01.",
-                "dateend": "2030.01.01."
+                "nevpozicio": "Dr. Attila Péterfalvi (President)",
+                "datestart": "2021.01.01.",
+                "dateend": "2029.12.31."
             }
         ]
     },
@@ -79,7 +79,7 @@
             {
                 "nevpozicio": "Andrea Beatrix Kádár (General Director, President from 2022)",
                 "datestart": "2021.09.29.",
-                "dateend": "2031.01.01."
+                "dateend": "2030.12.31."
             }
         ]
     },
@@ -89,9 +89,9 @@
         "feladat": "As an independent regulatory authority it has a substantial influence on the energy sector, which has strategic importance and a decisive role in the economy, for example, by means of issuing authorizations or by regulating the market.",
         "nevpoziciok": [
             {
-                "nevpozicio": "Péter János Horváth (President)",
-                "datestart": "2020.07.13.",
-                "dateend": "2027.07.13."
+                "nevpozicio": "Dr. Edit Juhász (President)",
+                "datestart": "2023.01.16.",
+                "dateend": "2030.01.15."
             }
         ]
     },
@@ -103,7 +103,7 @@
             {
                 "nevpozicio": "Dr. András Koltay (President)",
                 "datestart": "2021.12.14.",
-                "dateend": "2030.12.14."
+                "dateend": "2030.12.03."
             }
         ]
     },
@@ -115,7 +115,7 @@
             {
                 "nevpozicio": "Dr. András Koltay (President)",
                 "datestart": "2021.12.04.",
-                "dateend": "2030.12.04."
+                "dateend": "2030.12.03."
             }
         ]
     },
@@ -125,21 +125,33 @@
         "feladat": "It is responsible for managing and supervising concessions and authorizations related to gambling, tobacco, judicial execution, and liquidators. As result, the authority has particularly significant economic powers.",
         "nevpoziciok": [
             {
-                "nevpozicio": "Marcell Biró (President)",
-                "datestart": "2021.10.01.",
-                "dateend": "2030.10.01."
+                "nevpozicio": "Dr. László Nagy (President)",
+                "datestart": "2024.05.04.",
+                "dateend": "2033.05.03."
+            }
+        ]
+    },
+    {
+        "hatalmiag": "Executive",
+        "intezmeny": "Sovereignty Protection Office",
+        "feladat": "",
+        "nevpoziciok": [
+            {
+                "nevpozicio": "Tamás Lánczi (President)",
+                "datestart": "2024.01.15.",
+                "dateend": "2030.01.14."
             }
         ]
     },
     {
         "hatalmiag": "Other",
-        "intezmeny": "Commissioner for Fundamental Rights",
-        "feladat": "He has the right to request information and to enter public institutions and carries out fact-finding activities as part of his responsibilities to protect fundamental rights. He can make an impact on public life primarily by means of public disclosures, but since 1 January 2021 he is also in charge of discrimination cases formerly falling within the competence of the now dissolved Authority for Equal Treatment.",
+        "intezmeny": "Commissioner for Fundamental Rights (Ombudsperson)",
+        "feladat": "",
         "nevpoziciok": [
             {
-                "nevpozicio": "dr.  Ákos Kozma (Commissioner for Fundamental Rights/Ombudsman)",
-                "datestart": "2019.09.26.",
-                "dateend": "2025.09.26."
+                "nevpozicio": "Dr. Imre Juhász",
+                "datestart": "2025.09.26.",
+                "dateend": "2031.09.25."
             }
         ]
     },
@@ -149,79 +161,79 @@
         "feladat": "The supreme guardian and authentic interpreter of the Fundamental Law. Its substantial importance is primarily due to its powers to annul newly adopted legal regulations (so-called preliminary norm control) and legal regulations already in force (posterior norm control), and by means of the institution of constitutional complaints, but it also has an important role, for example, in the procedure to remove the President of the Republic from office.",
         "nevpoziciok": [
             {
-                "nevpozicio": "dr. Béla Pokol (member)",
-                "datestart": "2011.09.01.",
-                "dateend": "2023.09.01."
+                "nevpozicio": "Dr. Péter Polt (President)",
+                "datestart": "2025.06.11.",
+                "dateend": "2037.06.09."
             },
             {
-                "nevpozicio": "dr. Péter Szalay (member)",
-                "datestart": "2011.09.01.",
-                "dateend": "2023.09.01."
+                "nevpozicio": "Dr. Ákos Kozma (member)",
+                "datestart": "2025.09.26.",
+                "dateend": "2037.09.25."
             },
             {
-                "nevpozicio": "dr. Mária Szívós (member)",
-                "datestart": "2011.09.01.",
-                "dateend": "2023.09.01."
+                "nevpozicio": "Dr. Csaba Hende (member)",
+                "datestart": "2025.06.01.",
+                "dateend": "2037.05.31."
             },
             {
-                "nevpozicio": "dr. Egon Dienes-Ohm (member)",
-                "datestart": "2011.09.01.",
-                "dateend": "2023.09.01."
+                "nevpozicio": "Dr. Mária Ádám Haszonicsné (member)",
+                "datestart": "2023.09.02.",
+                "dateend": "2035.09.01."
             },
             {
-                "nevpozicio": "dr. László Salamon (member)",
-                "datestart": "2013.02.25.",
-                "dateend": "2025.02.25."
+                "nevpozicio": "Dr. Zoltán Lomnici (member)",
+                "datestart": "2023.09.02.",
+                "dateend": "2035.09.01."
             },
             {
-                "nevpozicio": "dr. Imre Juhász (member)",
-                "datestart": "2013.04.03.",
-                "dateend": "2025.04.03."
+                "nevpozicio": "Dr. András Patyi (member)",
+                "datestart": "2023.09.02.",
+                "dateend": "2035.09.01."
             },
             {
-                "nevpozicio": "dr. Tamás Sulyok (President)",
-                "datestart": "2014.09.27.",
-                "dateend": "2026.09.27."
+                "nevpozicio": "Dr. Réka Varga (member)",
+                "datestart": "2023.09.02.",
+                "dateend": "2035.09.01."
             },
             {
-                "nevpozicio": "dr. Ágnes Czine (member)",
+                "nevpozicio": "Dr. Zoltán Márki (member)",
+                "datestart": "2021.06.22.",
+                "dateend": "2033.06.21."
+            },
+            {
+                "nevpozicio": "Dr. Miklós Juhász (member)",
+                "datestart": "2020.04.15.",
+                "dateend": "2032.04.14."
+            },
+            {
+                "nevpozicio": "Dr. Tünde Handó (member)",
+                "datestart": "2020.01.01.",
+                "dateend": "2031.12.31."
+            },
+            {
+                "nevpozicio": "Dr. Ildikó Marosi Dr. Hörcherné (member)",
+                "datestart": "2016.12.01.",
+                "dateend": "2028.12.01."
+            },
+            {
+                "nevpozicio": "Dr. Attila Horváth (member)",
+                "datestart": "2016.12.01.",
+                "dateend": "2028.12.01."
+            },
+            {
+                "nevpozicio": "Dr. Balázs Schanda (member)",
+                "datestart": "2016.12.01.",
+                "dateend": "2028.12.01."
+            },
+            {
+                "nevpozicio": "Dr. Marcel Szabó (member)",
+                "datestart": "2016.12.01.",
+                "dateend": "2028.12.01."
+            },
+            {
+                "nevpozicio": "Dr. Ágnes Czine (member)",
                 "datestart": "2014.11.15.",
                 "dateend": "2026.11.15."
-            },
-            {
-                "nevpozicio": "dr. Balázs Schanda (member)",
-                "datestart": "2016.12.01.",
-                "dateend": "2028.12.01."
-            },
-            {
-                "nevpozicio": "dr. Attila Horváth (member)",
-                "datestart": "2016.12.01.",
-                "dateend": "2028.12.01."
-            },
-            {
-                "nevpozicio": "Ildikó dr. Hörcherné dr. Harosi (member)",
-                "datestart": "2016.12.01.",
-                "dateend": "2028.12.01."
-            },
-            {
-                "nevpozicio": "dr. Marcel Szabó (member)",
-                "datestart": "2016.12.01.",
-                "dateend": "2028.12.01."
-            },
-            {
-                "nevpozicio": "dr. Tünde Handó (member)",
-                "datestart": "2020.01.01.",
-                "dateend": "2032.01.01."
-            },
-            {
-                "nevpozicio": "dr. Miklós Juhász (member)",
-                "datestart": "2020.04.15.",
-                "dateend": "2032.04.15."
-            },
-            {
-                "nevpozicio": "dr. Zoltán Márki (member)",
-                "datestart": "2021.06.22.",
-                "dateend": "2033.06.22."
             }
         ]
     },
@@ -231,9 +243,9 @@
         "feladat": "His functions are mainly of ceremonial nature but can potentially hinder the operation of the state in several ways. For example, if he does not sign the already adopted laws or exercises his rights to appoint ministers, judges, rectors, professors, the President of the Curia, the Prosecutor General and many other officials in an obstructive manner.",
         "nevpoziciok": [
             {
-                "nevpozicio": "dr. János Áder's term expires on 10 May 2022 at the latest, his successor will  be elected by the current Parliament for 5 years",
-                "datestart": "2012.05.10.",
-                "dateend": "2027.03.13."
+                "nevpozicio": "Dr. Tamás Sulyok",
+                "datestart": "2024.03.05.",
+                "dateend": "2029.03.04."
             }
         ]
     },
@@ -243,9 +255,9 @@
         "feladat": "As the central bank, it has a fundamental influence on economic life by means of setting the base interest rate, its powers as supervisory authority and market interventions. It is not obliged to pay its own profit to the central budget but may use such funds to finance foundations and make expenditures without any control by the state.",
         "nevpoziciok": [
             {
-                "nevpozicio": "dr. György Matolcsy (President)",
-                "datestart": "2013.03.04.",
-                "dateend": "2025.03.04."
+                "nevpozicio": "Mihály Varga (President)",
+                "datestart": "2025.03.04.",
+                "dateend": "2031.03.03."
             }
         ]
     },
@@ -264,25 +276,25 @@
     },
     {
         "hatalmiag": "Other",
-        "intezmeny": "National Election Commission (NVB)",
+        "intezmeny": "National Election Commission",
         "feladat": "The National Election Commission (NVB) is entitled to adopt a decision inter alia, about the verification of questions intended for a referendum and may review decisions related to and results of elections and may adjudge complaints concerning the election procedure. The quasi-judicial role of the NVB (declaring the results of elections, adjudication of complaints) is somewhat lessened by the powers of judicial review of the Curia.",
         "nevpoziciok": [
             {
-                "nevpozicio": "dr. András Téglási (President)",
-                "datestart": "2021.02.19.",
-                "dateend": "2030.02.19."
+                "nevpozicio": "Dr. Róbert László Sasvári (President)",
+                "datestart": "2022.10.03.",
+                "dateend": "2031.10.02."
             }
         ]
     },
     {
         "hatalmiag": "Other",
-        "intezmeny": "National Election Office (NVI)",
+        "intezmeny": "National Election Office",
         "feladat": "The National Election Office (NVI), as an autonomous body, is responsible for the technical arrangements and the fairness of elections.",
         "nevpoziciok": [
             {
-                "nevpozicio": "dr. Attila Mihály Nagy (President)",
+                "nevpozicio": "Dr. Attila Mihály Nagy (President)",
                 "datestart": "2020.09.15.",
-                "dateend": "2029.09.15."
+                "dateend": "2029.09.14."
             }
         ]
     }

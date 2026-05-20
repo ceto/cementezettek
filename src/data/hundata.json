@@ -5,9 +5,9 @@
         "feladat": "Feladata a közpénzek elköltésének ellenőrzés, pártok gazdálkodásának törvényességi ellenőrzése. Ebben a körben a pártok számára fizetési kötelezettséget állapíthat meg.",
         "nevpoziciok": [
             {
-                "nevpozicio": "Domokos László (elnök)",
-                "datestart": "2010.07.05.",
-                "dateend": "2022.07.05."
+                "nevpozicio": "Dr. Windisch László (elnök)",
+                "datestart": "2022.07.06.",
+                "dateend": "2034.07.05."
             }
         ]
     },
@@ -17,9 +17,9 @@
         "feladat": "Az Országgyűlés törvényhozási munkáját segítő testület. A költségvetési törvény elfogadásához a Tanács hozzájárulása szükséges, amit megtagadhat, ha meglátása szerint a költségvetési javaslat nem felel meg az államadósság-fék szabálynak. A már elfogadott költségvetés módosítását is megvétózhatja, és jelenősen korlátozhatja a kormány és a parlament pénzügyi mozgásterét.",
         "nevpoziciok": [
             {
-                "nevpozicio": "Dr. Kovács Árpád (elnök)",
-                "datestart": "2012.01.10.",
-                "dateend": "2024.01.10."
+                "nevpozicio": "Horváth Gábor (elnök)",
+                "datestart": "2024.01.10.",
+                "dateend": "2030.01.09."
             }
         ]
     },
@@ -29,9 +29,9 @@
         "feladat": "A bírósági szervezetrendszer legmagasabb fóruma, feladatai közé tartozik a jogegységesítés, aminek keretében 2020-tól korlátozott precedens rendszer működik. Eszerint a Kúria ítéleteitől az alsóbb szintű bíróságok csak kifejezett indokolással térhetnek el. Elnökének a bíróságok feletti tekintélye mellett kiemelkedő szerepe van az ügyelosztásban, a tanácsok összetételében és a Kúrián belüli bírói előmenetelben.",
         "nevpoziciok": [
             {
-                "nevpozicio": "dr. Varga Zs. András (elnök)",
+                "nevpozicio": "Dr. Varga Zs. András (elnök)",
                 "datestart": "2021.01.02.",
-                "dateend": "2029.01.02."
+                "dateend": "2030.01.01."
             }
         ]
     },
@@ -41,9 +41,9 @@
         "feladat": "Az ügyészi szervezetrendszer csúcsa, az állami vádmonopólium letéteményese. A Legfőbb Ügyésznek az ügyészi vádemelésre és vádképviseletre döntő befolyása van. Ha az ügyészség nem emel vádat, a bíróság sem járhat el. ",
         "nevpoziciok": [
             {
-                "nevpozicio": "dr. Polt Péter (Legfőbb Ügyész)",
-                "datestart": "2010.12.14.",
-                "dateend": "2028.12.15."
+                "nevpozicio": "Dr. Nagy Gábor Bálint (legfőbb ügyész)",
+                "datestart": "2025.06.11.",
+                "dateend": "2034.06.10."
             }
         ]
     },
@@ -55,7 +55,7 @@
             {
                 "nevpozicio": "Dr. Senyei György Barna (elnök)",
                 "datestart": "2019.12.10.",
-                "dateend": "2028.12.10."
+                "dateend": "2028.12.09."
             }
         ]
     },
@@ -65,9 +65,9 @@
         "feladat": "Az adatvédelmi és információszabadsággal kapcsolatos jogok és kötelezettségek betartását ellenőrzi. Adatvédelmi hatósági eljárást indíthat magánszemélyekkel és szervezetekkel szemben egyaránt, valamint ráhatása van a közérdekű adatok nyilvánosságával kapcsolatos joggyakorlat kialakítására.",
         "nevpoziciok": [
             {
-                "nevpozicio": "dr. Péterfalvi Attila (elnök)",
-                "datestart": "2012.01.01.",
-                "dateend": "2030.01.01."
+                "nevpozicio": "Dr. Péterfalvi Attila (elnök)",
+                "datestart": "2021.01.01.",
+                "dateend": "2029.12.31."
             }
         ]
     },
@@ -77,9 +77,9 @@
         "feladat": "Nukleáris létesítmények, a radioaktív hulladéktárolók, valamint a radioaktív anyagok biztonságával és védettségével kapcsolatos hatósági felügyeletet lát el. Hatáskörébe tartozik többek között Paks II. engedélyezése is. 2022. január 1-től önálló szabályozó szervként fog működni.",
         "nevpoziciok": [
             {
-                "nevpozicio": "Kádár Andrea Beatrix  (főigazgató, 2022-től elnök)",
+                "nevpozicio": "Kádár Andrea Beatrix (főigazgató, 2022-től elnök)",
                 "datestart": "2021.09.29.",
-                "dateend": "2031.01.01."
+                "dateend": "2030.12.31."
             }
         ]
     },
@@ -89,9 +89,9 @@
         "feladat": "Önálló szabályozó szervként alapvető befolyása van a stratégiai jelentőségű és meghatározó gazdasági súlyú energiaszektorban, például engedélyek kiadásával vagy piacbefolyásolással.",
         "nevpoziciok": [
             {
-                "nevpozicio": "Horváth Péter János (elnök)",
-                "datestart": "2020.07.13.",
-                "dateend": "2027.07.13."
+                "nevpozicio": "Dr. Juhász Edit (elnök)",
+                "datestart": "2023.01.16.",
+                "dateend": "2030.01.15."
             }
         ]
     },
@@ -103,7 +103,7 @@
             {
                 "nevpozicio": "Dr. Koltay András (elnök)",
                 "datestart": "2021.12.14.",
-                "dateend": "2030.12.14."
+                "dateend": "2030.12.03."
             }
         ]
     },
@@ -115,7 +115,7 @@
             {
                 "nevpozicio": "Dr. Koltay András (elnök)",
                 "datestart": "2021.12.04.",
-                "dateend": "2030.12.04."
+                "dateend": "2030.12.03."
             }
         ]
     },
@@ -125,9 +125,21 @@
         "feladat": "Feladata a szerencsejáték és dohányipari, a bírósági végrehajtás valamint a felszámolói koncessziók, engedélyek kezelése és ellenőrzése. Mindez rendkívül nagy gazdasági súlyt ad a hatóságnak.",
         "nevpoziciok": [
             {
-                "nevpozicio": "Biró Marcell (elnök)",
-                "datestart": "2021.10.01.",
-                "dateend": "2030.10.01."
+                "nevpozicio": "Dr. Nagy László (elnök)",
+                "datestart": "2024.05.04.",
+                "dateend": "2033.05.03."
+            }
+        ]
+    },
+    {
+        "hatalmiag": "Végrehajtás",
+        "intezmeny": "Szuverenitásvédelmi Hivatal",
+        "feladat": "",
+        "nevpoziciok": [
+            {
+                "nevpozicio": "Lánczi Tamás (elnök)",
+                "datestart": "2024.01.15.",
+                "dateend": "2030.01.14."
             }
         ]
     },
@@ -137,9 +149,9 @@
         "feladat": "Információkérési és belépési joga van a közintézményekbe, alapjogvédelmi feladatkörében pedig tényfeltáró munkát végez. Elsősorban a nyilvánosság erejével hathat a közéletre, azonban 2021. január 1. óta hozzá tartoznak a megszüntetett Egyenlő Bánásmód Hatósága hatáskörébe tartozott diszkriminációs ügyek is.",
         "nevpoziciok": [
             {
-                "nevpozicio": "dr. Kozma Ákos (Ombudsman)",
-                "datestart": "2019.09.26.",
-                "dateend": "2025.09.26."
+                "nevpozicio": "Dr. Juhász Imre",
+                "datestart": "2025.09.26.",
+                "dateend": "2031.09.25."
             }
         ]
     },
@@ -149,91 +161,91 @@
         "feladat": "Az Alaptörvény legfőbb őre és autentikus értelmezője. Elsősorban a frissen megalkotott jogszabályok (az ún. előzetes normakontroll) és a már hatályban lévő jogszabályok megsemmisítésére (utólagos normakontroll) vonatkozó jogkörén, valamint az alkotmányjogi panasz intézményén keresztül van alapvető jelentősége, de szerepe van például a Köztársasági Elnök pozíciójától való megfosztási eljárásban is.",
         "nevpoziciok": [
             {
-                "nevpozicio": "dr. Pokol Béla (tag)",
-                "datestart": "2011.09.01.",
-                "dateend": "2023.09.01."
+                "nevpozicio": "Dr. Polt Péter (elnök)",
+                "datestart": "2025.06.11.",
+                "dateend": "2037.06.09."
             },
             {
-                "nevpozicio": "dr. Szalay Péter (tag)",
-                "datestart": "2011.09.01.",
-                "dateend": "2023.09.01."
+                "nevpozicio": "Dr. Kozma Ákos (tag)",
+                "datestart": "2025.09.26.",
+                "dateend": "2037.09.25."
             },
             {
-                "nevpozicio": "dr. Szívós Mária (tag)",
-                "datestart": "2011.09.01.",
-                "dateend": "2023.09.01."
+                "nevpozicio": "Dr. Hende Csaba (tag)",
+                "datestart": "2025.06.01.",
+                "dateend": "2037.05.31."
             },
             {
-                "nevpozicio": "dr. Dienes-Ohm Egon (tag)",
-                "datestart": "2011.09.01.",
-                "dateend": "2023.09.01."
+                "nevpozicio": "Haszonicsné dr. Ádám Mária (tag)",
+                "datestart": "2023.09.02.",
+                "dateend": "2035.09.01."
             },
             {
-                "nevpozicio": "dr. Salamon László (tag)",
-                "datestart": "2013.02.25.",
-                "dateend": "2025.02.25."
+                "nevpozicio": "Dr. Lomnici Zoltán (tag)",
+                "datestart": "2023.09.02.",
+                "dateend": "2035.09.01."
             },
             {
-                "nevpozicio": "dr. Juhász Imre (tag)",
-                "datestart": "2013.04.03.",
-                "dateend": "2025.04.03."
+                "nevpozicio": "Dr. Patyi András (tag)",
+                "datestart": "2023.09.02.",
+                "dateend": "2035.09.01."
             },
             {
-                "nevpozicio": "dr. Sulyok Tamás (elnök)",
-                "datestart": "2014.09.27.",
-                "dateend": "2026.09.27."
+                "nevpozicio": "Dr. Varga Réka (tag)",
+                "datestart": "2023.09.02.",
+                "dateend": "2035.09.01."
             },
             {
-                "nevpozicio": "dr. Czine Ágnes (tag)",
+                "nevpozicio": "Dr. Márki Zoltán (tag)",
+                "datestart": "2021.06.22.",
+                "dateend": "2033.06.21."
+            },
+            {
+                "nevpozicio": "Dr. Juhász Miklós (tag)",
+                "datestart": "2020.04.15.",
+                "dateend": "2032.04.14."
+            },
+            {
+                "nevpozicio": "Dr. Handó Tünde (tag)",
+                "datestart": "2020.01.01.",
+                "dateend": "2031.12.31."
+            },
+            {
+                "nevpozicio": "Dr. Hörcherné dr. Marosi Ildikó (tag)",
+                "datestart": "2016.12.01.",
+                "dateend": "2028.12.01."
+            },
+            {
+                "nevpozicio": "Dr. Horváth Attila (tag)",
+                "datestart": "2016.12.01.",
+                "dateend": "2028.12.01."
+            },
+            {
+                "nevpozicio": "Dr. Schanda Balázs (tag)",
+                "datestart": "2016.12.01.",
+                "dateend": "2028.12.01."
+            },
+            {
+                "nevpozicio": "Dr. Szabó Marcel (tag)",
+                "datestart": "2016.12.01.",
+                "dateend": "2028.12.01."
+            },
+            {
+                "nevpozicio": "Dr. Czine Ágnes (tag)",
                 "datestart": "2014.11.15.",
                 "dateend": "2026.11.15."
-            },
-            {
-                "nevpozicio": "dr. Schanda Balázs (tag)",
-                "datestart": "2016.12.01.",
-                "dateend": "2028.12.01."
-            },
-            {
-                "nevpozicio": "dr. Horváth Attila (tag)",
-                "datestart": "2016.12.01.",
-                "dateend": "2028.12.01."
-            },
-            {
-                "nevpozicio": "dr. Hörcherné dr. Harosi Ildikó (tag)",
-                "datestart": "2016.12.01.",
-                "dateend": "2028.12.01."
-            },
-            {
-                "nevpozicio": "dr. Szabó Marcel (tag)",
-                "datestart": "2016.12.01.",
-                "dateend": "2028.12.01."
-            },
-            {
-                "nevpozicio": "dr. Handó Tünde (tag)",
-                "datestart": "2020.01.01.",
-                "dateend": "2032.01.01."
-            },
-            {
-                "nevpozicio": "dr. Juhász Miklós (tag)",
-                "datestart": "2020.04.15.",
-                "dateend": "2032.04.15."
-            },
-            {
-                "nevpozicio": "dr. Márki Zoltán (tag)",
-                "datestart": "2021.06.22.",
-                "dateend": "2033.06.22."
             }
         ]
     },
     {
         "hatalmiag": "Egyéb hivatalok",
-        "intezmeny": "Köztársasági Elnök",
+        "intezmeny": "Köztársasági elnök",
         "feladat": "Alapvetően protokolláris szerepe van, azonban potenciálisan többféleképpen akadályozhatja az állam működését. Így például nem írja alá a már elfogadott törvényeket vagy obstruktív módon gyakorolja a miniszterek, bírák, rektorok, professzorok, a Kúria elnöke, a Legfőbb Ügyész és számos más hivatalnok kinevezésére vonatkozó jogát.",
         "nevpoziciok": [
             {
-                "nevpozicio": "dr. Áder János mandátuma legkésőbb 2022. május 10-én lejár, utódját is a jelenlegi parlament választja 5 évre",
-                "datestart": "2012.05.10.",
-                "dateend": "2027.03.13."
+                "nevpozicio": "Dr. Sulyok Tamás",
+                "datestart": "2024.03.05.",
+                "dateend": "2029.03.04."
             }
         ]
     },
@@ -243,9 +255,9 @@
         "feladat": "Jegybankként alapvető ráhatása van a gazdasági életre az alapkamat meghatározásán, felügyeleti hatósági jogkörein és piaci intervenciók útján. Saját nyereségét nem köteles befizetni a költségvetésbe, abból alapítványokat működtethet és állami kontroll nélkül költekezhet.",
         "nevpoziciok": [
             {
-                "nevpozicio": "dr. Matolcsy György (elnök)",
-                "datestart": "2013.03.04.",
-                "dateend": "2025.03.04."
+                "nevpozicio": "Varga Mihály (elnök)",
+                "datestart": "2025.03.04.",
+                "dateend": "2031.03.03."
             }
         ]
     },
@@ -255,7 +267,7 @@
         "feladat": "A közszolgálati műsorgyártással jelentős kulturális befolyással és információs hatalommal rendelkezik. A műsorokat a Duna Médiaszolgáltató Nonprofit Zrt. részére gyártja. Kezelője a Médiatanács.",
         "nevpoziciok": [
             {
-                "nevpozicio": "Papp Dániel (vezérigazgató), megbizatása határozatlan időre szól ",
+                "nevpozicio": "Papp Dániel (vezérigazgató), megbízatása határozatlan időre szól ",
                 "datestart": "2018.10.01.",
                 "dateend": "2034.01.01.",
                 "custominfo": "Megbizatásának ideje: 2018.10.01. Megbizatása határozatlan időre szól"
@@ -264,25 +276,25 @@
     },
     {
         "hatalmiag": "Egyéb hivatalok",
-        "intezmeny": "Nemzeti Választási Bizottság (NVB)",
+        "intezmeny": "Nemzeti Választási Bizottság",
         "feladat": "Az NVB dönt többek között népszavazásra szánt kérdések hitelesítéséről és felülvizsgálhatja a választásokkal kapcsolatos döntéseket, eredményeket, valamint elbírálja a választási eljárással kapcsolatos panaszokat. Az NVB jogalkalmazó szerepét (választások eredményének megállapítása, kifogások elbírálása) némileg tompítja a Kúria felülvizsgálati jogköre.",
         "nevpoziciok": [
             {
-                "nevpozicio": "dr. Téglási András (elnök)",
-                "datestart": "2021.02.19.",
-                "dateend": "2030.02.19."
+                "nevpozicio": "Dr. Sasvári Róbert László (elnök)",
+                "datestart": "2022.10.03.",
+                "dateend": "2031.10.02."
             }
         ]
     },
     {
         "hatalmiag": "Egyéb hivatalok",
-        "intezmeny": "Nemzeti Választási Iroda (NVI)",
+        "intezmeny": "Nemzeti Választási Iroda",
         "feladat": "Az NVI autonóm szervként felel a választások technikai lebonyolításáért és a választások tisztaságáért.",
         "nevpoziciok": [
             {
-                "nevpozicio": "dr. Nagy Attila Mihály (elnök)",
+                "nevpozicio": "Dr. Nagy Attila Mihály (elnök)",
                 "datestart": "2020.09.15.",
-                "dateend": "2029.09.15."
+                "dateend": "2029.09.14."
             }
         ]
     }

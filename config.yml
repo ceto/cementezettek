@@ -26,5 +26,5 @@ PATHS:
   entries:
     - "src/assets/js/app.js"
   # Deploy url on github
-  cname: "cementezettek.helsinki.hu"
+  cname: "cementezettek.hydrogene.hu"
   jsondatasrc: "https://opensheet.vercel.app/1Y4l9MgmgW16FgTSBIKRom84XfOa8eEow9JOGqjubW5o/offices"
