@@ -1,5 +1,5 @@
 const handlebars = require('handlebars');
-module.exports = function(color='', datestart='2010.01.01.', dateend='2033.12.31.', custominfo='', lang='hu') {
+module.exports = function(color='', datestart='2014.01.01.', dateend='2037.12.31.', custominfo='', lang='hu') {
 
     function shadeColor(color, percent) {
 
@@ -23,7 +23,7 @@ module.exports = function(color='', datestart='2010.01.01.', dateend='2033.12.31
     }
 
     var hex='';
-    var hundredpercent = (Date.parse('2033.12.31.') - Date.parse('2010.01.01.'))/1000;
+    var hundredpercent = (Date.parse('2037.12.31.') - Date.parse('2014.01.01.'))/1000;
     
     var svgtitle='Megbízatásának ideje: ' + datestart + ' - ' + dateend;
     if (lang !== 'hu' ) {
@@ -61,7 +61,7 @@ module.exports = function(color='', datestart='2010.01.01.', dateend='2033.12.31
         '<title>'+ svgtitle + '</title>' +        
         '<g mask="url(#barstripes)">' + 
             '<rect class="base" fill="#efefef" x="0" y="0" width="100%" height="100%" />' +
-            '<rect fill="url(#' + color + '-grad)" class="progress" x="'+ (100-((Date.parse('2033.12.31.') - Date.parse(datestart))/1000 / hundredpercent * 100)) +'%" y="0" width="'+ ((Date.parse(dateend) - Date.parse(datestart))/1000 / hundredpercent * 100) +'%" height="100%" mask="url(#barmask)" />' +
+            '<rect fill="url(#' + color + '-grad)" class="progress" x="'+ (100-((Date.parse('2037.12.31.') - Date.parse(datestart))/1000 / hundredpercent * 100)) +'%" y="0" width="'+ ((Date.parse(dateend) - Date.parse(datestart))/1000 / hundredpercent * 100) +'%" height="100%" mask="url(#barmask)" />' +
         '</g>' +   
     '</svg>';
     return new handlebars.SafeString(svg);
