@@ -22,7 +22,7 @@
                 <div class="office__data">
                     {{#each nevpoziciok}}
                         {{svgbar ../../color datestart dateend custominfo ../../lang }}
-                        <p style="margin-right: {{rightspacecalc dateend}}%;">{{nevpozicio}}</p>
+                        <p style="margin-right: {{rightspacecalc dateend}}%;">{{nev}}{{#if pozicio}} ({{pozicio}}){{/if}}{{#if custominfo}}<br>{{custominfo}}{{/if}}</p>
                     {{/each}}
                 </div>
             </div>

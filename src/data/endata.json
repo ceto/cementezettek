@@ -5,9 +5,10 @@
         "feladat": "It is responsible for auditing the spending of public funds and supervising the legality of the financial management of political parties. In that respect it may impose payment obligations for political parties.",
         "nevpoziciok": [
             {
-                "nevpozicio": "Dr. László Windisch (President)",
                 "datestart": "2022.07.06.",
-                "dateend": "2034.07.05."
+                "dateend": "2034.07.05.",
+                "nev": "Dr. László Windisch",
+                "pozicio": "President"
             }
         ]
     },
@@ -17,9 +18,10 @@
         "feladat": "It is a body supporting the legislative work of the National Assembly. The adoption of the act on the budget requires the consent of the Council, which may refuse to give its consent if, in its view, the proposal of the budget does not comply with the rules on public debt control. It may also veto the amendment of the adopted budget and may significantly limit the margins of fiscal maneuver of the Government or the Parliament.",
         "nevpoziciok": [
             {
-                "nevpozicio": "Gábor Horváth (President)",
                 "datestart": "2024.01.10.",
-                "dateend": "2030.01.09."
+                "dateend": "2030.01.09.",
+                "nev": "Gábor Horváth",
+                "pozicio": "President"
             }
         ]
     },
@@ -29,9 +31,10 @@
         "feladat": "It is the highest forum in the organizational structure of the judiciary, its responsibilities include legal harmonization as part of which a limited case-law system has been introduced in 2020. Accordingly, lower courts may deviate from the judgments of the Curia only by expressly referring to the reasons thereof. Its President, beside his authority over courts, has a substantial role in the assignment of cases to judges, in determining the composition of judicial chambers and the promotion of judges within the Curia.",
         "nevpoziciok": [
             {
-                "nevpozicio": "Dr. András Zs. Varga (President)",
                 "datestart": "2021.01.02.",
-                "dateend": "2030.01.01."
+                "dateend": "2030.01.01.",
+                "nev": "Dr. András Zs. Varga",
+                "pozicio": "President"
             }
         ]
     },
@@ -41,9 +44,10 @@
         "feladat": "It is the highest organ within the organizational structure of the prosecution, and the representative of the state’s monopoly of prosecution. The Prosecutor General has a decisive influence on laying and representing charges by prosecutors. If the prosecution lays no charges, the courts cannot proceed in the case.",
         "nevpoziciok": [
             {
-                "nevpozicio": "Dr. Gábor Bálint Nagy (Prosecutor General)",
                 "datestart": "2025.06.11.",
-                "dateend": "2034.06.10."
+                "dateend": "2034.06.10.",
+                "nev": "Dr. Gábor Bálint Nagy",
+                "pozicio": "Prosecutor General"
             }
         ]
     },
@@ -53,9 +57,10 @@
         "feladat": "It is the central administrative organ of courts. Its President has a fundamental impact on the organizational system of the judiciary through his powers concerning job applications of judges, appointments, assessments of job performance and promotions, and by other means.",
         "nevpoziciok": [
             {
-                "nevpozicio": "Dr. György Barna Senyei (President)",
                 "datestart": "2019.12.10.",
-                "dateend": "2028.12.09."
+                "dateend": "2028.12.09.",
+                "nev": "Dr. György Barna Senyei",
+                "pozicio": "President"
             }
         ]
     },
@@ -65,9 +70,10 @@
         "feladat": "It is responsible for monitoring the observance of rights and obligations related to data protection and freedom of information. It may initiate administrative procedures for data protection against natural and legal persons alike, and it has an influence on developing the case-law related to the access to data of public interest.",
         "nevpoziciok": [
             {
-                "nevpozicio": "Dr. Attila Péterfalvi (President)",
                 "datestart": "2021.01.01.",
-                "dateend": "2029.12.31."
+                "dateend": "2029.12.31.",
+                "nev": "Dr. Attila Péterfalvi",
+                "pozicio": "President"
             }
         ]
     },
@@ -77,9 +83,10 @@
         "feladat": "It is responsible for the official supervision related to the safety and protection of nuclear installations, radioactive waste storage facilities, and radioactive material. Its responsibilities include the authorization of Paks II. It will operate as an independent regulatory authority as of 1 January 2022.",
         "nevpoziciok": [
             {
-                "nevpozicio": "Andrea Beatrix Kádár (General Director, President from 2022)",
                 "datestart": "2021.09.29.",
-                "dateend": "2030.12.31."
+                "dateend": "2030.12.31.",
+                "nev": "Andrea Beatrix Kádár",
+                "pozicio": "General Director, President from 2022"
             }
         ]
     },
@@ -89,9 +96,10 @@
         "feladat": "As an independent regulatory authority it has a substantial influence on the energy sector, which has strategic importance and a decisive role in the economy, for example, by means of issuing authorizations or by regulating the market.",
         "nevpoziciok": [
             {
-                "nevpozicio": "Dr. Edit Juhász (President)",
                 "datestart": "2023.01.16.",
-                "dateend": "2030.01.15."
+                "dateend": "2030.01.15.",
+                "nev": "Dr. Edit Juhász",
+                "pozicio": "President"
             }
         ]
     },
@@ -101,9 +109,10 @@
         "feladat": "Its responsibilities include the authorization of mergers in the media market, the allocation of frequencies and the promotion of media pluralism. Or its obstruction, as the case may be: the re-classification of advertisements of the governmental campaign as advertisements for public purposes was a great step in the direction of the latter.",
         "nevpoziciok": [
             {
-                "nevpozicio": "Dr. András Koltay (President)",
                 "datestart": "2021.12.14.",
-                "dateend": "2030.12.03."
+                "dateend": "2030.12.03.",
+                "nev": "Dr. András Koltay",
+                "pozicio": "President"
             }
         ]
     },
@@ -113,9 +122,10 @@
         "feladat": "As a media supervisory authority it is an actor vested with powers and significant influence on the media market by means of managing frequency tender procedures and adopting sector specific regulations. The Media Council is its independent body.",
         "nevpoziciok": [
             {
-                "nevpozicio": "Dr. András Koltay (President)",
                 "datestart": "2021.12.04.",
-                "dateend": "2030.12.03."
+                "dateend": "2030.12.03.",
+                "nev": "Dr. András Koltay",
+                "pozicio": "President"
             }
         ]
     },
@@ -125,9 +135,10 @@
         "feladat": "It is responsible for managing and supervising concessions and authorizations related to gambling, tobacco, judicial execution, and liquidators. As result, the authority has particularly significant economic powers.",
         "nevpoziciok": [
             {
-                "nevpozicio": "Dr. László Nagy (President)",
                 "datestart": "2024.05.04.",
-                "dateend": "2033.05.03."
+                "dateend": "2033.05.03.",
+                "nev": "Dr. László Nagy",
+                "pozicio": "President"
             }
         ]
     },
@@ -137,9 +148,10 @@
         "feladat": "Under the guise of countering foreign influence, it may investigate civil society organizations, media outlets, and public figures. Due to its broad powers and the vague rules, its operations are conducive to intimidating and pressuring independent actors.",
         "nevpoziciok": [
             {
-                "nevpozicio": "Tamás Lánczi (President)",
                 "datestart": "2024.01.15.",
-                "dateend": "2030.01.14."
+                "dateend": "2030.01.14.",
+                "nev": "Tamás Lánczi",
+                "pozicio": "President"
             }
         ]
     },
@@ -149,9 +161,10 @@
         "feladat": "",
         "nevpoziciok": [
             {
-                "nevpozicio": "Dr. Imre Juhász",
                 "datestart": "2025.09.26.",
-                "dateend": "2031.09.25."
+                "dateend": "2031.09.25.",
+                "nev": "Dr. Imre Juhász",
+                "pozicio": ""
             }
         ]
     },
@@ -161,79 +174,94 @@
         "feladat": "The supreme guardian and authentic interpreter of the Fundamental Law. Its substantial importance is primarily due to its powers to annul newly adopted legal regulations (so-called preliminary norm control) and legal regulations already in force (posterior norm control), and by means of the institution of constitutional complaints, but it also has an important role, for example, in the procedure to remove the President of the Republic from office.",
         "nevpoziciok": [
             {
-                "nevpozicio": "Dr. Péter Polt (President)",
                 "datestart": "2025.06.11.",
-                "dateend": "2037.06.09."
+                "dateend": "2037.06.09.",
+                "nev": "Dr. Péter Polt",
+                "pozicio": "President"
             },
             {
-                "nevpozicio": "Dr. Ákos Kozma (member)",
                 "datestart": "2025.09.26.",
-                "dateend": "2037.09.25."
+                "dateend": "2037.09.25.",
+                "nev": "Dr. Ákos Kozma",
+                "pozicio": "member"
             },
             {
-                "nevpozicio": "Dr. Csaba Hende (member)",
                 "datestart": "2025.06.01.",
-                "dateend": "2037.05.31."
+                "dateend": "2037.05.31.",
+                "nev": "Dr. Csaba Hende",
+                "pozicio": "member"
             },
             {
-                "nevpozicio": "Dr. Mária Ádám Haszonicsné (member)",
                 "datestart": "2023.09.02.",
-                "dateend": "2035.09.01."
+                "dateend": "2035.09.01.",
+                "nev": "Dr. Mária Ádám Haszonicsné",
+                "pozicio": "member"
             },
             {
-                "nevpozicio": "Dr. Zoltán Lomnici (member)",
                 "datestart": "2023.09.02.",
-                "dateend": "2035.09.01."
+                "dateend": "2035.09.01.",
+                "nev": "Dr. Zoltán Lomnici",
+                "pozicio": "member"
             },
             {
-                "nevpozicio": "Dr. András Patyi (member)",
                 "datestart": "2023.09.02.",
-                "dateend": "2035.09.01."
+                "dateend": "2035.09.01.",
+                "nev": "Dr. András Patyi",
+                "pozicio": "member"
             },
             {
-                "nevpozicio": "Dr. Réka Varga (member)",
                 "datestart": "2023.09.02.",
-                "dateend": "2035.09.01."
+                "dateend": "2035.09.01.",
+                "nev": "Dr. Réka Varga",
+                "pozicio": "member"
             },
             {
-                "nevpozicio": "Dr. Zoltán Márki (member)",
                 "datestart": "2021.06.22.",
-                "dateend": "2033.06.21."
+                "dateend": "2033.06.21.",
+                "nev": "Dr. Zoltán Márki",
+                "pozicio": "member"
             },
             {
-                "nevpozicio": "Dr. Miklós Juhász (member)",
                 "datestart": "2020.04.15.",
-                "dateend": "2032.04.14."
+                "dateend": "2032.04.14.",
+                "nev": "Dr. Miklós Juhász",
+                "pozicio": "member"
             },
             {
-                "nevpozicio": "Dr. Tünde Handó (member)",
                 "datestart": "2020.01.01.",
-                "dateend": "2031.12.31."
+                "dateend": "2031.12.31.",
+                "nev": "Dr. Tünde Handó",
+                "pozicio": "member"
             },
             {
-                "nevpozicio": "Dr. Ildikó Marosi Dr. Hörcherné (member)",
                 "datestart": "2016.12.01.",
-                "dateend": "2028.12.01."
+                "dateend": "2028.12.01.",
+                "nev": "Dr. Ildikó Marosi Dr. Hörcherné",
+                "pozicio": "member"
             },
             {
-                "nevpozicio": "Dr. Attila Horváth (member)",
                 "datestart": "2016.12.01.",
-                "dateend": "2028.12.01."
+                "dateend": "2028.12.01.",
+                "nev": "Dr. Attila Horváth",
+                "pozicio": "member"
             },
             {
-                "nevpozicio": "Dr. Balázs Schanda (member)",
                 "datestart": "2016.12.01.",
-                "dateend": "2028.12.01."
+                "dateend": "2028.12.01.",
+                "nev": "Dr. Balázs Schanda",
+                "pozicio": "member"
             },
             {
-                "nevpozicio": "Dr. Marcel Szabó (member)",
                 "datestart": "2016.12.01.",
-                "dateend": "2028.12.01."
+                "dateend": "2028.12.01.",
+                "nev": "Dr. Marcel Szabó",
+                "pozicio": "member"
             },
             {
-                "nevpozicio": "Dr. Ágnes Czine (member)",
                 "datestart": "2014.11.15.",
-                "dateend": "2026.11.15."
+                "dateend": "2026.11.15.",
+                "nev": "Dr. Ágnes Czine",
+                "pozicio": "member"
             }
         ]
     },
@@ -243,9 +271,10 @@
         "feladat": "His functions are mainly of ceremonial nature but can potentially hinder the operation of the state in several ways. For example, if he does not sign the already adopted laws or exercises his rights to appoint ministers, judges, rectors, professors, the President of the Curia, the Prosecutor General and many other officials in an obstructive manner.",
         "nevpoziciok": [
             {
-                "nevpozicio": "Dr. Tamás Sulyok",
                 "datestart": "2024.03.05.",
-                "dateend": "2029.03.04."
+                "dateend": "2029.03.04.",
+                "nev": "Dr. Tamás Sulyok",
+                "pozicio": ""
             }
         ]
     },
@@ -255,9 +284,10 @@
         "feladat": "As the central bank, it has a fundamental influence on economic life by means of setting the base interest rate, its powers as supervisory authority and market interventions. It is not obliged to pay its own profit to the central budget but may use such funds to finance foundations and make expenditures without any control by the state.",
         "nevpoziciok": [
             {
-                "nevpozicio": "Mihály Varga (President)",
                 "datestart": "2025.03.04.",
-                "dateend": "2031.03.03."
+                "dateend": "2031.03.03.",
+                "nev": "Mihály Varga",
+                "pozicio": "President"
             }
         ]
     },
@@ -267,10 +297,11 @@
         "feladat": "It has a significant cultural impact and information power by means of public service broadcasting production. Its programs are produced for Duna Media Services Nonprofit Zrt. It is managed by the Media Council.",
         "nevpoziciok": [
             {
-                "nevpozicio": "Dániel Papp (General Director), mandate held for an indefinite period",
                 "datestart": "2018.10.01.",
-                "dateend": "2034.01.01.",
-                "custominfo": "Appointment: 2018.10.01. Mandate held for an indefinite period"
+                "dateend": "2037.12.31.",
+                "custominfo": "mandate held for an indefinite period",
+                "nev": "Dániel Papp",
+                "pozicio": "General Director"
             }
         ]
     },
@@ -280,9 +311,10 @@
         "feladat": "The National Election Commission (NVB) is entitled to adopt a decision inter alia, about the verification of questions intended for a referendum and may review decisions related to and results of elections and may adjudge complaints concerning the election procedure. The quasi-judicial role of the NVB (declaring the results of elections, adjudication of complaints) is somewhat lessened by the powers of judicial review of the Curia.",
         "nevpoziciok": [
             {
-                "nevpozicio": "Dr. Róbert László Sasvári (President)",
                 "datestart": "2022.10.03.",
-                "dateend": "2031.10.02."
+                "dateend": "2031.10.02.",
+                "nev": "Dr. Róbert László Sasvári",
+                "pozicio": "President"
             }
         ]
     },
@@ -292,9 +324,10 @@
         "feladat": "The National Election Office (NVI), as an autonomous body, is responsible for the technical arrangements and the fairness of elections.",
         "nevpoziciok": [
             {
-                "nevpozicio": "Dr. Attila Mihály Nagy (President)",
                 "datestart": "2020.09.15.",
-                "dateend": "2029.09.14."
+                "dateend": "2029.09.14.",
+                "nev": "Dr. Attila Mihály Nagy",
+                "pozicio": "President"
             }
         ]
     }
