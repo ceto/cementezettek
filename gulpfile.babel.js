@@ -7,6 +7,7 @@ import rimraf        from 'rimraf';
 import sherpa        from 'style-sherpa';
 import yaml          from 'js-yaml';
 import fs            from 'fs';
+import { exec }      from 'child_process';
 import webpackStream from 'webpack-stream';
 import webpack2      from 'webpack';
 import named         from 'vinyl-named';
@@ -39,7 +40,7 @@ console.log(UNCSS_OPTIONS);
 // Build the "dist" folder by running all of the below tasks
 // Sass must be run later so UnCSS can search for used classes in the others assets.
 gulp.task('build',
-  gulp.series(clean, gulp.parallel(pages, javascript, images, copy), sassBuild, styleGuide)
+  gulp.series(clean, gulp.parallel(pages, javascript, images, copy, svelteBuild), sassBuild, styleGuide)
 );
 
 // Build the site, run the server, and watch for file changes
@@ -198,6 +199,27 @@ function reload(done) {
   done();
 }
 
+// Build the officials-wall Svelte submodule using the project-root override config.
+// Install submodule deps first (no-op when already present), then vite build.
+function svelteBuild(done) {
+  const subDir = './src/officials-wall';
+  const install = fs.existsSync(subDir + '/node_modules')
+    ? (cb) => cb()
+    : (cb) => exec('npm install', { cwd: subDir }, cb);
+
+  install((installErr) => {
+    if (installErr) return done(installErr);
+    exec(
+      'node node_modules/.bin/vite build --config officials-wall.vite.config.mjs',
+      (buildErr, stdout, stderr) => {
+        if (stdout) process.stdout.write(stdout);
+        if (buildErr) { process.stderr.write(stderr); return done(buildErr); }
+        done();
+      }
+    );
+  });
+}
+
 // Watch for changes to static assets, pages, Sass, and JavaScript
 function watch() {
   gulp.watch(PATHS.assets, copy);
@@ -209,4 +231,5 @@ function watch() {
   gulp.watch('src/assets/js/**/*.js').on('all', gulp.series(javascript, browser.reload));
   gulp.watch('src/assets/img/**/*').on('all', gulp.series(images, browser.reload));
   gulp.watch('src/styleguide/**').on('all', gulp.series(styleGuide, browser.reload));
+  gulp.watch('src/officials-wall/src/**').on('all', gulp.series(svelteBuild, browser.reload));
 }

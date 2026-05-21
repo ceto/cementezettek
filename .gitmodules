@@ -1,0 +1,3 @@
+[submodule "src/officials-wall"]
+	path = src/officials-wall
+	url = https://github.com/szeemi/officials-wall2.git
