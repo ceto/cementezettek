@@ -151,7 +151,15 @@ a.langswitch {
 
 }
 
-
+.startlinks {
+    // line-height: 1.75;
+    a {
+        display: inline-block;
+        padding: 0 0.25em;
+        border-radius: 0.1875em;
+        margin-bottom: .25em;
+    }
+}
 
 
 

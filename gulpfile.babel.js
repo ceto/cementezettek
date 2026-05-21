@@ -116,6 +116,7 @@ function sassBuild() {
   return gulp.src('src/assets/scss/app.scss')
     .pipe($.sourcemaps.init())
     .pipe(sass({
+      silenceDeprecations: ['global-builtin', 'import', 'if-function', 'legacy-js-api'],
       includePaths: PATHS.sass
     })
     .on('error', sass.logError))

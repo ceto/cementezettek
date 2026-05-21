@@ -5,31 +5,38 @@
     margin: 6rem 0;
 }
 .chapter__title {
+    position: relative;
+    z-index: 0;
     transition: transform .2s ease-in;
     position: relative;
-    font-size: rem-calc(15);
+    font-size: rem-calc(17);
     line-height: $global-lineheight;
-    font-weight: $fw-normal;
+    font-weight: $fw-bold;
     font-family: $fontfira;
-    margin: 0 0 0;
-    width: max-content;
-    max-width: calc(66.666% - 1em);
+    margin: 0 0;
+    // width: max-content;
+    // max-width: calc(66.666% - 1em);
     background-color: $cl-gray;
-    padding:.125em 0;
-    &:before {
+    padding:.5em 0;
+     &::before {
         z-index: -1;
-        content: '';
-        display: block;
         position: absolute;
+        content:'';
         top:0;
-        right: -.5em;
-        width:66.666vw;
-        height: 100%;
+        left:-3.19%;
+        right:-3.19%;
+        bottom:0;
         background-color: inherit;
-        box-shadow: .125em .125em .25em -.125em rgba(#000,.25);
+        border-radius: .5em;
+        box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+
         @include breakpoint($bp-tablet) {
-            width:auto;
-            left:-.5em;
+            left:-1rem;
+            right:-1rem;
+        }
+        .is-stuck & {
+            border-top-left-radius: 0;
+            border-top-right-radius: 0;
         }
     }
 
@@ -62,14 +69,54 @@
 .chapter__intro {
     // font-family: $fontrobo;
     // font-weight: $fw-medium;
+    position: relative;
+    z-index: -1;
     font-size: rem-calc(15);
-    margin:.5rem 0 0;
+    margin: -2em 0 0 0;
+    padding: 2.5em 0 1.2em 0;
+
+    background-color: $cl-gray;
+
+    &.cl1 {
+        background-color: $cl-1;
+    };
+
+    &.cl2 {
+        background-color: $cl-2;
+    };
+
+    &.cl3 {
+        background-color: $cl-3;
+    };
+
+    &.cl4 {
+        background-color: $cl-4;
+    };
+
     p {
         line-height: 1.5;
+        margin:0;
         strong {
             font-weight: $fw-medium;
         }
     }
+    &::before {
+        z-index: -2;
+        position: absolute;
+        content:'';
+        top:0;
+        left:-3.19%;
+        right:-3.19%;
+        bottom:0;
+        background-color: inherit;
+        border-radius: .5em;
+        box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+        @include breakpoint($bp-tablet) {
+            left:-1rem;
+            right:-1rem;
+        }
+    }
+
 }
 
 .chapter__data {
@@ -79,13 +126,13 @@
         z-index: -1;
         position: absolute;
         content:'';
-        top:7.5rem;
-        left:51.25%;
+        top:5.5rem;
+        left:var(--today-left, 51.25%);
         bottom:1.5rem;
         width: 1px;
         border-left:1px dashed $cl-gray-light;
         @include breakpoint($bp-tablet) {
-            top:8.125rem
+            top:6.5rem
         }
     }
 

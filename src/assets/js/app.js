@@ -19,6 +19,7 @@ import CC from "CookieConsent";
 // If you want to pick and choose which modules to include, comment out the above and uncomment
 // the line below
 import './lib/foundation-explicit-pieces';
+import './lib/todayline';
 
 // import 'waypoints/lib/noframework.waypoints.js';
 

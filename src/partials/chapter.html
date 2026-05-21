@@ -1,13 +1,13 @@
 <div id="{{id}}" class="chapter pagewrap novpad" data-magellan-target="{{id}}">
     <div class="narrowwrap">
-        <div class="sticky" data-sticky data-margin-top="1" data-margin-top="0" data-sticky-on="small" data-anchor="{{id}}">
+        <div class="sticky" data-sticky data-margin-top="0" data-sticky-on="small" data-anchor="{{id}}">
             <h2 class="chapter__title {{color}}">{{title}}</h2>
         </div>
-        <div class="chapter__intro">
+        <div class="chapter__intro {{color}}">
             <p>{{safehtml desc}}</p>
         </div>
         <div id="chapterdata-{{id}}" class="chapter__data">
-            <div class="sticky" data-sticky data-margin-top="0" data-sticky-on="small" data-anchor="chapterdata-{{id}}">
+            <div class="sticky" data-sticky data-margin-top="2" data-sticky-on="small" data-anchor="chapterdata-{{id}}">
             {{> theaxis }}
             </div>
             {{#each ds}}

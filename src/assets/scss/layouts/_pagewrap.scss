@@ -23,8 +23,8 @@
 
 
     @include breakpoint(100em) {
-        padding-left: calc(50% - #{$global-width/2});
-        padding-right: calc(50% - #{$global-width/2});
+        padding-left: calc(50% - #{$global-width*0.5});
+        padding-right: calc(50% - #{$global-width*0.5});
     }
 
     &.fullwidth {
