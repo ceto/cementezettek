@@ -10,6 +10,7 @@
     <meta name="description" content="A 2026. áprilisi országgyűlési választásokat követően nehezen elmozdítható közjogi tisztségviselők hada maradt pozícióban, akik kizárólag a jelenlegi kormánynak vagy a Fidesz-többségnek köszönhetik a mandátumukat.">
     <meta property="og:image" content="https://cementezettek.helsinki.hu/assets/img/SOCIAL_HUN.png"/>
     <link rel="stylesheet" href="assets/css/app.css">
+    <link rel="stylesheet" href="assets/wall/wall.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,400;0,500;0,700;1,400&family=Roboto+Condensed:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
@@ -46,11 +47,9 @@
             <p class="startlinks"><a class="cl1" href="#torvenyhozas">törvényhozás,</a> <a class="cl2" href="#igazsagszolgaltatas">igazságszolgáltatás,</a> <a class="cl3" href="#vegrehajtas">végrehajtó hatalom,</a> és <a class="cl4" href="#egyeb">egyéb hivatalok.</a></p>
         </div>
         <br><br><br>
-        <picture class="chartfig" data-aos="fade-up" data-aos-delay="2200" data-aos-duration="500" data-aos-anchor="#animintro">
-            <source srcset="assets/img/png_desktop_HUN.png" media="(min-width: 768px)">
-            <source srcset="assets/img/png_mobil_HUN.png" media="(max-width: 767px)">
-            <img src="assets/img/png_mobil_HUN.png" alt="A 2026. áprilisi országgyűlési választásokat követően nehezen elmozdítható közjogi tisztségviselők hada maradt pozícióban, akik kizárólag a jelenlegi kormánynak vagy a Fidesz-többségnek köszönhetik a mandátumukat." >
-        </picture>
+        <div class="chartfig" data-aos="fade-up" data-aos-delay="2200" data-aos-duration="500" data-aos-anchor="#animintro">
+            <div id="app"></div>
+        </div>
     </div>
 </div>
 <br><br>
@@ -637,5 +636,6 @@
 </svg>
 </div>
 <script src="assets/js/app.js"></script>
+<script type="module" src="assets/wall/wall.js"></script>
 </body>
 </html>
