@@ -40,12 +40,79 @@
         margin:0 0 0 auto;
         max-width: 26em;
     }
+    .has-tip {
+        display: block;
+        border:none;
+        font-weight: unset;
+    }
+}
+.tooltip {
+    border-radius: .25em;
+    filter: drop-shadow(0 0 2px rgba(0, 0, 0, 0.25));
+}
+.ttcard {
+    display: grid;
+    border-radius: inherit;
+    grid-template-columns: 1fr 1fr;
+    gap: 0;
+    padding: .5rem .875em;
+    border-left: .333em solid $cl-gray-light;
+    line-height: 1.2;
+    font-size: .875rem;
+
+    &__name {
+        display: block;
+        grid-column: 1 / -1;
+    }
+    &__role {
+        display: block;
+        grid-column: 1 / -1;
+        font-size: .875em;
+        color: $cl-gray;
+
+    }
+    &__dates {
+        padding-top: .5em;
+        margin-top: .5em;
+        font-size: .9375em;
+        border-top: 1px solid $cl-gray-xlight;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-column: 1 / -1;
+        gap:1.25em;
+    }
+    &__info {
+        display: block;
+        grid-column: 1 / -1;
+        font-size: .75em;
+        color: $cl-gray;
+    }
+    .ttcard__label {
+        font-size:.666em;
+        text-transform: uppercase;
+        color: $cl-gray-light;
+        display: block;
+    }
+
+
+    &.cl1 {
+        border-color: $cl-1;
+    };
+    &.cl2 {
+        border-color: $cl-2;
+    };
+    &.cl3 {
+        border-color: $cl-3;
+    };
+    &.cl4 {
+        border-color: $cl-4;
+    };
 }
 
 
 .svgbar {
     .progress {
-        cursor: pointer;
+        cursor: help;
         // mask: url(#progressmask);
         // fill: url(#bwgrad);
 

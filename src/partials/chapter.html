@@ -21,9 +21,9 @@
                 </div>
                 <div class="office__data">
                     {{#each nevpoziciok}}
-                        {{svgbar ../../color datestart dateend custominfo ../../lang }}
+                        <span data-tooltip data-allow-html="true" tabindex="0" title='{{tooltiptitle ../../color nev pozicio datestart dateend custominfo ../../lang}}'>{{svgbar ../../color datestart dateend custominfo ../../lang }}</span>
                         <p style="margin-right: {{rightspacecalc dateend}}%;">{{nev}}{{#if pozicio}} ({{pozicio}}){{/if}}{{#if custominfo}}<br>{{custominfo}}{{/if}}</p>
-                    {{/each}}
+                        {{/each}}
                 </div>
             </div>
             {{/ifequal}}
