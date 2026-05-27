@@ -2,7 +2,7 @@
     {
         "hatalmiag": "Törvényhozás",
         "intezmeny": "Állami Számvevőszék",
-        "feladat": "Feladata a közpénzek elköltésének ellenőrzés, pártok gazdálkodásának törvényességi ellenőrzése. Ebben a körben a pártok számára fizetési kötelezettséget állapíthat meg.",
+        "feladat": "Feladata a közpénzek elköltésének ellenőrzése, a pártok gazdálkodásának törvényességi ellenőrzése. Ebben a körben a pártok számára fizetési kötelezettséget állapíthat meg.",
         "nevpoziciok": [
             {
                 "datestart": "2022.07.06.",
@@ -15,7 +15,7 @@
     {
         "hatalmiag": "Törvényhozás",
         "intezmeny": "Költségvetési Tanács",
-        "feladat": "Az Országgyűlés törvényhozási munkáját segítő testület. A költségvetési törvény elfogadásához a Tanács hozzájárulása szükséges, amit megtagadhat, ha meglátása szerint a költségvetési javaslat nem felel meg az államadósság-fék szabálynak. A már elfogadott költségvetés módosítását is megvétózhatja, és jelenősen korlátozhatja a kormány és a parlament pénzügyi mozgásterét.",
+        "feladat": "Az Országgyűlés törvényhozási munkáját segítő testület. A költségvetési törvény elfogadásához a Tanács hozzájárulása szükséges, amit megtagadhat, ha meglátása szerint a költségvetési javaslat nem felel meg az államadósságfék-szabálynak. A már elfogadott költségvetés módosítását is megvétózhatja, és jelentősen korlátozhatja a kormány és a parlament pénzügyi mozgásterét.",
         "nevpoziciok": [
             {
                 "datestart": "2024.01.10.",
@@ -28,7 +28,7 @@
     {
         "hatalmiag": "Igazságszolgáltatás",
         "intezmeny": "Kúria",
-        "feladat": "A bírósági szervezetrendszer legmagasabb fóruma, feladatai közé tartozik a jogegységesítés, aminek keretében 2020-tól korlátozott precedens rendszer működik. Eszerint a Kúria ítéleteitől az alsóbb szintű bíróságok csak kifejezett indokolással térhetnek el. Elnökének a bíróságok feletti tekintélye mellett kiemelkedő szerepe van az ügyelosztásban, a tanácsok összetételében és a Kúrián belüli bírói előmenetelben.",
+        "feladat": "A bírósági szervezetrendszer legmagasabb fóruma, feladatai közé tartozik a jogegységesítés, aminek keretében 2020-tól korlátozott precedensrendszer működik. Eszerint a Kúria ítéleteitől az alsóbb szintű bíróságok csak kifejezett indokolással térhetnek el. Elnökének a bíróságok feletti tekintélye mellett kiemelkedő szerepe van az ügyelosztásban, a tanácsok összetételében és a Kúrián belüli bírói előmenetelben.",
         "nevpoziciok": [
             {
                 "datestart": "2021.01.02.",
@@ -41,7 +41,7 @@
     {
         "hatalmiag": "Igazságszolgáltatás",
         "intezmeny": "Legfőbb Ügyészség",
-        "feladat": "Az ügyészi szervezetrendszer csúcsa, az állami vádmonopólium letéteményese. A Legfőbb Ügyésznek az ügyészi vádemelésre és vádképviseletre döntő befolyása van. Ha az ügyészség nem emel vádat, a bíróság sem járhat el. ",
+        "feladat": "Az ügyészi szervezetrendszer csúcsa, az állami vádmonopólium letéteményese. A legfőbb ügyésznek az ügyészi vádemelésre és vádképviseletre döntő befolyása van. Ha az ügyészség nem emel vádat, a bíróság sem járhat el.",
         "nevpoziciok": [
             {
                 "datestart": "2025.06.11.",
@@ -54,7 +54,7 @@
     {
         "hatalmiag": "Igazságszolgáltatás",
         "intezmeny": "Országos Bírósági Hivatal",
-        "feladat": "A bíróságok központi igazgató szerve. Elnökének alapvető hatása van a bírósági szervezetre a bírói pályázatok, kinevezés, teljesítményértékelés, előmenetel körében őt megillető jogkörök és egyéb eszközök útján.",
+        "feladat": "A bíróságok központi igazgatási szerve. Elnökének alapvető hatása van a bírósági szervezetre a bírói pályázatok, kinevezés, teljesítményértékelés, előmenetel körében őt megillető jogkörök és egyéb eszközök útján.",
         "nevpoziciok": [
             {
                 "datestart": "2019.12.10.",
@@ -80,7 +80,7 @@
     {
         "hatalmiag": "Végrehajtás",
         "intezmeny": "Országos Atomenergia Hivatal",
-        "feladat": "Nukleáris létesítmények, a radioaktív hulladéktárolók, valamint a radioaktív anyagok biztonságával és védettségével kapcsolatos hatósági felügyeletet lát el. Hatáskörébe tartozik többek között Paks II. engedélyezése is. 2022. január 1-től önálló szabályozó szervként fog működni.",
+        "feladat": "Nukleáris létesítmények, a radioaktív hulladéktárolók, valamint a radioaktív anyagok biztonságával és védettségével kapcsolatos hatósági felügyeletet lát el. Hatáskörébe tartozik többek között Paks II. engedélyezése is. 2022. január 1-től önálló szabályozó szervként működik.",
         "nevpoziciok": [
             {
                 "datestart": "2021.09.29.",
@@ -106,7 +106,7 @@
     {
         "hatalmiag": "Végrehajtás",
         "intezmeny": "Médiatanács",
-        "feladat": "Feladatai közé tartozik a médiapiaci fúziók engedélyezése, frekvenciaelosztás és médiapluralizmus elősegítése. Vagy éppen hátráltatása: a kormányzati kampányreklámok társadalmi célú reklámmá minősítése utóbbi irányba tett erőteljes lépés.",
+        "feladat": "Feladatai közé tartozik a médiapiaci fúziók engedélyezése, a frekvenciaelosztás és a médiapluralizmus elősegítése. Vagy éppen hátráltatása: a kormányzati kampányok társadalmi célú reklámmá minősítése utóbbi irányba tett erőteljes lépés.",
         "nevpoziciok": [
             {
                 "datestart": "2021.12.14.",
@@ -132,7 +132,7 @@
     {
         "hatalmiag": "Végrehajtás",
         "intezmeny": "Szabályozott Tevékenységek Felügyeleti Hatósága",
-        "feladat": "Feladata a szerencsejáték és dohányipari, a bírósági végrehajtás valamint a felszámolói koncessziók, engedélyek kezelése és ellenőrzése. Mindez rendkívül nagy gazdasági súlyt ad a hatóságnak.",
+        "feladat": "Feladata a szerencsejáték- és dohányipari, valamint a bírósági végrehajtói és felszámolói koncessziók, engedélyek kezelése és ellenőrzése. Mindez rendkívül nagy gazdasági súlyt ad a hatóságnak.",
         "nevpoziciok": [
             {
                 "datestart": "2024.05.04.",
@@ -158,7 +158,7 @@
     {
         "hatalmiag": "Egyéb hivatalok",
         "intezmeny": "Alapvető jogok biztosa",
-        "feladat": "Információkérési és belépési joga van a közintézményekbe, alapjogvédelmi feladatkörében pedig tényfeltáró munkát végez. Elsősorban a nyilvánosság erejével hathat a közéletre, azonban 2021. január 1. óta hozzá tartoznak a megszüntetett Egyenlő Bánásmód Hatósága hatáskörébe tartozott diszkriminációs ügyek is.",
+        "feladat": "Információkérési és belépési joga van a közintézményekbe, alapjogvédelmi feladatkörében pedig tényfeltáró munkát végez. Elsősorban a nyilvánosság erejével hathat a közéletre, azonban 2021. január 1. óta hozzá tartoznak a megszüntetett Egyenlő Bánásmód Hatóság hatáskörébe tartozott diszkriminációs ügyek is.",
         "nevpoziciok": [
             {
                 "datestart": "2025.09.26.",
@@ -171,7 +171,7 @@
     {
         "hatalmiag": "Egyéb hivatalok",
         "intezmeny": "Alkotmánybíróság",
-        "feladat": "Az Alaptörvény legfőbb őre és autentikus értelmezője. Elsősorban a frissen megalkotott jogszabályok (az ún. előzetes normakontroll) és a már hatályban lévő jogszabályok megsemmisítésére (utólagos normakontroll) vonatkozó jogkörén, valamint az alkotmányjogi panasz intézményén keresztül van alapvető jelentősége, de szerepe van például a Köztársasági Elnök pozíciójától való megfosztási eljárásban is.",
+        "feladat": "Az Alaptörvény legfőbb őre és autentikus értelmezője. Elsősorban a frissen megalkotott jogszabályok (az ún. előzetes normakontroll) és a már hatályban lévő jogszabályok megsemmisítésére (utólagos normakontroll) vonatkozó jogkörén, valamint az alkotmányjogi panasz intézményén keresztül van alapvető jelentősége, de szerepe van például a köztársasági elnök pozíciójától való megfosztási eljárásban is.",
         "nevpoziciok": [
             {
                 "datestart": "2025.06.11.",
@@ -268,7 +268,7 @@
     {
         "hatalmiag": "Egyéb hivatalok",
         "intezmeny": "Köztársasági elnök",
-        "feladat": "Alapvetően protokolláris szerepe van, azonban potenciálisan többféleképpen akadályozhatja az állam működését. Így például nem írja alá a már elfogadott törvényeket vagy obstruktív módon gyakorolja a miniszterek, bírák, rektorok, professzorok, a Kúria elnöke, a Legfőbb Ügyész és számos más hivatalnok kinevezésére vonatkozó jogát.",
+        "feladat": "Alapvetően protokolláris szerepe van, azonban potenciálisan többféleképpen akadályozhatja az állam működését. Így például nem írja alá a már elfogadott törvényeket vagy obstruktív módon gyakorolja a miniszterek, bírák, rektorok, professzorok, a Kúria elnöke, a legfőbb ügyész és számos más hivatalnok kinevezésére vonatkozó jogát.",
         "nevpoziciok": [
             {
                 "datestart": "2024.03.05.",
@@ -299,7 +299,7 @@
             {
                 "datestart": "2018.10.01.",
                 "dateend": "2037.12.31.",
-                "custominfo": "megbizatása határozatlan időre szól",
+                "custominfo": "megbízatása határozatlan időre szól",
                 "nev": "Papp Dániel",
                 "pozicio": "vezérigazgató"
             }

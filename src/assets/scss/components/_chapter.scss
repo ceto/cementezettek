@@ -52,16 +52,16 @@
 
 
     &.cl1 {
-        background-color: $cl-1;
+        background-color: $cl-1-light;
     };
     &.cl2 {
-        background-color: $cl-2;
+        background-color: $cl-2-light;
     };
     &.cl3 {
-        background-color: $cl-3;
+        background-color: $cl-3-light;
     };
     &.cl4 {
-        background-color: $cl-4;
+        background-color: $cl-4-light;
     };
 
 }
@@ -78,19 +78,19 @@
     background-color: $cl-gray;
 
     &.cl1 {
-        background-color: $cl-1;
+        background-color: $cl-1-light;
     };
 
     &.cl2 {
-        background-color: $cl-2;
+        background-color: $cl-2-light;
     };
 
     &.cl3 {
-        background-color: $cl-3;
+        background-color: $cl-3-light;
     };
 
     &.cl4 {
-        background-color: $cl-4;
+        background-color: $cl-4-light;
     };
 
     p {
@@ -132,7 +132,7 @@
         width: 1px;
         border-left:1px dashed $cl-gray-light;
         @include breakpoint($bp-tablet) {
-            top:6.5rem
+            top:6rem
         }
     }
 

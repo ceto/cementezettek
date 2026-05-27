@@ -28,7 +28,7 @@
         height: rem-calc(13);
         margin: rem-calc(10) 0;
         @include breakpoint($bp-tablet) {
-            height: rem-calc(10);
+            height: rem-calc(11.25);
         }
     }
     p {
