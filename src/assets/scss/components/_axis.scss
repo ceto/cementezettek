@@ -8,17 +8,18 @@
         font-size: .9375rem;  
         font-family: $fontrobo;
         color: $cl-gray;
+        text-align: right;
   
-        padding: .5em .25em .5em 1em;
-        margin:0 0 0 var(--today-left, 51.25%);
+        padding: .5em .875em .5em 0;
+        margin:0 calc(100% - var(--today-left, 51.25%)) 0 0;
         &::before {
             position: absolute;
             content:'';
             top:50%;
-            left:0;
+            right:-1px;
             bottom:0;
             width: .875em;
-            border-left:1px dashed $cl-gray-light;
+            border-right:1px dashed $cl-gray-light;
             border-top:1px dashed $cl-gray-light;
         }
     }
