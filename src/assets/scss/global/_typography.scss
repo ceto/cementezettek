@@ -69,3 +69,29 @@ a {
         fill: currentColor;
     }
 }
+
+hr {
+    margin: 1rem auto;
+    height: 0;
+    border: none;
+    border-top: 1px solid rgba($cl-gray-dark, 0.05);
+    border-bottom: 1px solid rgba(#fff, 0.05);
+
+    &.fulldivider {
+        max-width: none;
+        margin: 0 auto;
+        border-top: 1px solid rgba($cl-gray-dark, 0.05);
+        border-bottom: 1px solid rgba(#fff, 0.05);
+    }
+}
+
+
+.panel {
+    padding:1rem;
+    border: 1px solid $cl-gray-light;
+
+    .button {
+        margin:0;
+        text-decoration: none;
+    }
+}

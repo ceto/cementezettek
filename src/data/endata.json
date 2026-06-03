@@ -15,7 +15,7 @@
     {
         "hatalmiag": "Legislative",
         "intezmeny": "Fiscal Council",
-        "feladat": "It is a body supporting the legislative work of the National Assembly. The adoption of the act on the budget requires the consent of the Council, which may refuse to give its consent if, in its view, the proposal of the budget does not comply with the rules on public debt control. It may also veto the amendment of the adopted budget and may significantly limit the margins of fiscal maneuver of the Government or the Parliament.",
+        "feladat": "It is a body supporting the legislative work of the Parliament. The adoption of the act on the budget requires the consent of the Council, which may refuse to give its consent if, in its view, the proposal of the budget does not comply with the rules on public debt control. It may also veto the amendment of the adopted budget and may significantly limit the margins of fiscal maneuver of the Government or the Parliament.",
         "nevpoziciok": [
             {
                 "datestart": "2024.01.10.",
@@ -80,7 +80,7 @@
     {
         "hatalmiag": "Executive",
         "intezmeny": "Hungarian Atomic Energy Authority",
-        "feladat": "It is responsible for the official supervision related to the safety and protection of nuclear installations, radioactive waste storage facilities, and radioactive material. Its responsibilities include the authorization of Paks II. It will operate as an independent regulatory authority as of 1 January 2022.",
+        "feladat": "It is responsible for the official supervision related to the safety and protection of nuclear installations, radioactive waste storage facilities, and radioactive material. Its responsibilities include the authorization of Paks II. It operates as an independent regulatory authority as of 1 January 2022.",
         "nevpoziciok": [
             {
                 "datestart": "2021.09.29.",
@@ -106,7 +106,7 @@
     {
         "hatalmiag": "Executive",
         "intezmeny": "Media Council",
-        "feladat": "Its responsibilities include the authorization of mergers in the media market, the allocation of frequencies and the promotion of media pluralism. Or its obstruction, as the case may be: the re-classification of advertisements of the governmental campaign as advertisements for public purposes was a great step in the direction of the latter.",
+        "feladat": "Its responsibilities include the authorization of mergers in the media market, the allocation of frequencies and the promotion of media pluralism. Or its obstruction, as the case may be: the re-classification of advertisements of the governmental campaigns as advertisements for public purposes was a great step in the direction of the latter.",
         "nevpoziciok": [
             {
                 "datestart": "2021.12.14.",
@@ -132,7 +132,7 @@
     {
         "hatalmiag": "Executive",
         "intezmeny": "Supervisory Authority for Regulated Services",
-        "feladat": "It is responsible for managing and supervising concessions and authorizations related to gambling, tobacco, judicial execution, and liquidators. As result, the authority has particularly significant economic powers.",
+        "feladat": "It is responsible for managing and supervising concessions and authorizations related to gambling, tobacco, judicial execution, and liquidators. As a result, the authority has particularly significant economic powers.",
         "nevpoziciok": [
             {
                 "datestart": "2024.05.04.",
@@ -158,7 +158,7 @@
     {
         "hatalmiag": "Other",
         "intezmeny": "Commissioner for Fundamental Rights (Ombudsperson)",
-        "feladat": "",
+        "feladat": "He has the right to request information and to enter public institutions and carries out fact-finding activities as part of his responsibilities to protect fundamental rights. He can make an impact on public life primarily by means of public disclosures, but since 1 January 2021 he is also in charge of discrimination cases formerly falling within the competence of the now dissolved Equal Treatment Authority.",
         "nevpoziciok": [
             {
                 "datestart": "2025.09.26.",
@@ -293,7 +293,7 @@
     },
     {
         "hatalmiag": "Other",
-        "intezmeny": "Media Services Support and Asset Management Fund (MTVA)",
+        "intezmeny": "Media Services Support and Asset Management Fund (MTVA)",
         "feladat": "It has a significant cultural impact and information power by means of public service broadcasting production. Its programs are produced for Duna Media Services Nonprofit Zrt. It is managed by the Media Council.",
         "nevpoziciok": [
             {
@@ -308,7 +308,7 @@
     {
         "hatalmiag": "Other",
         "intezmeny": "National Election Commission",
-        "feladat": "The National Election Commission (NVB) is entitled to adopt a decision inter alia, about the verification of questions intended for a referendum and may review decisions related to and results of elections and may adjudge complaints concerning the election procedure. The quasi-judicial role of the NVB (declaring the results of elections, adjudication of complaints) is somewhat lessened by the powers of judicial review of the Curia.",
+        "feladat": "It is entitled to adopt a decision inter alia, about the verification of questions intended for a referendum and may review decisions related to and results of elections and may adjudge complaints concerning the election procedure. Its quasi-judicial role (declaring the results of elections, adjudication of complaints) is somewhat lessened by the powers of judicial review of the Curia.",
         "nevpoziciok": [
             {
                 "datestart": "2022.10.03.",
@@ -321,7 +321,7 @@
     {
         "hatalmiag": "Other",
         "intezmeny": "National Election Office",
-        "feladat": "The National Election Office (NVI), as an autonomous body, is responsible for the technical arrangements and the fairness of elections.",
+        "feladat": "As an autonomous body, it is responsible for the technical arrangements and the fairness of elections.",
         "nevpoziciok": [
             {
                 "datestart": "2020.09.15.",

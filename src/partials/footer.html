@@ -17,12 +17,30 @@
                 </ul>
             </div>
         </section>
+        <br>
+        <hr class="fulldivider">
+        <br>
+        <div class="panel">
+        {{#ifequal lang "hu"}}
+            <h3>A világ változik, viszont mi változatlanul kiállunk a jogaidért és a jogállamért.</h3>
+            <p>Támogasd a Magyar Helsinki Bizottságot egyszeri vagy rendszeres adománnyal!</p>
+            <a href="https://helsinki.hu/tamogatas/" target="_blank" class="button warning small">Online adományozás</a>
+        {{else}}
+            <h3>The world is changing. Our devotion to human rights remains the same.</h3>
+            <p>Please donate to the Hungarian Helsinki Committee, so that we can continue to stand up for human dignity and offer professional legal help to those who need it most.</p>
+            <a href="https://helsinki.hu/en/donate/" target="_blank" class="button warning small">Donate online</a> 
+        {{/ifequal}}
+        </div>
     </div>
 </div>
 <div class="pagewrap fullwidth novpad xlight">
     <div class="sitefooter narrowwrap">
         <div class="sitefooter__logos">
+            {{#ifequal lang "hu"}}
             <a href="https://helsinki.hu/"><img src="{{root}}assets/img/mhblogo.svg"></a>
+            {{else}}
+            <a href="https://helsinki.hu/en/"><img src="{{root}}assets/img/mhclogo.svg"></a>
+            {{/ifequal}}
             <a target="_blank" href="https://postkodstiftelsen.se/en/"><img style="filter:grayscale(100%);" src="{{root}}assets/img/svenskalogo_new.svg"></a>
         </div>
 
