@@ -299,9 +299,10 @@
             {
                 "datestart": "2018.10.01.",
                 "dateend": "2037.12.31.",
-                "custominfo": "megbízatása határozatlan időre szól",
+                "custominfo": "Frissítés: 2026. június 5-én kezdeményezte a munkaviszonya megszüntetését.",
                 "nev": "Papp Dániel",
-                "pozicio": "vezérigazgató"
+                "pozicio": "vezérigazgató",
+                "inactive": 1
             }
         ]
     },

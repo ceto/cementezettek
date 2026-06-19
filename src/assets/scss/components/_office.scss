@@ -30,6 +30,9 @@
         @include breakpoint($bp-tablet) {
             height: rem-calc(11.25);
         }
+        &.inactive {
+            filter: grayscale(1);
+        }
     }
     p {
         font-family: $fontrobo;
@@ -39,6 +42,13 @@
         padding:0 0;
         margin:0 0 0 auto;
         max-width: 26em;
+        span {
+            font-size: rem-calc(13);
+            color:$cl-gray;
+        }
+        &.inactive {
+           color: $cl-gray;
+        }
     }
     .has-tip {
         display: block;

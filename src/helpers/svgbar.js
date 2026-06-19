@@ -1,5 +1,5 @@
 const handlebars = require('handlebars');
-module.exports = function(color='', datestart='2014.01.01.', dateend='2037.12.31.', custominfo='', lang='hu') {
+module.exports = function(color='', datestart='2014.01.01.', dateend='2037.12.31.', custominfo='', inactive='0', lang='hu') {
 
     function shadeColor(color, percent) {
 
@@ -57,7 +57,7 @@ module.exports = function(color='', datestart='2014.01.01.', dateend='2037.12.31
 
 
 
-    var svg = '<svg class="svgbar color" viewBox="0 0 600 15" fill="' + hex +'" width="100%" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">'+
+    var svg = '<svg class="svgbar color' + (inactive == 1 ? ' inactive' : '') + '" viewBox="0 0 600 15" fill="' + hex +'" width="100%" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">'+
         '<title>'+ svgtitle + '</title>' +        
         '<g mask="url(#barstripes)">' + 
             '<rect class="base" fill="#efefef" x="0" y="0" width="100%" height="100%" />' +

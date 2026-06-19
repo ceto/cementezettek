@@ -299,9 +299,10 @@
             {
                 "datestart": "2018.10.01.",
                 "dateend": "2037.12.31.",
-                "custominfo": "mandate held for an indefinite period",
+                "custominfo": "Update: Initiated the termination of his employment on 5 June 2026.",
                 "nev": "Dániel Papp",
-                "pozicio": "General Director"
+                "pozicio": "General Director",
+                "inactive": 1
             }
         ]
     },

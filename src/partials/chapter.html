@@ -21,8 +21,8 @@
                 </div>
                 <div class="office__data">
                     {{#each nevpoziciok}}
-                        <span data-tooltip data-allow-html="true" tabindex="0" title='{{tooltiptitle ../../color nev pozicio datestart dateend custominfo ../../lang}}'>{{svgbar ../../color datestart dateend custominfo ../../lang }}</span>
-                        <p style="margin-right: {{rightspacecalc dateend}}%;">{{nev}}{{#if pozicio}} ({{pozicio}}){{/if}}{{#if custominfo}}<br>{{custominfo}}{{/if}}</p>
+                        <span data-tooltip data-allow-html="true" tabindex="0" title='{{tooltiptitle ../../color nev pozicio datestart dateend custominfo inactive ../../lang}}'>{{svgbar ../../color datestart dateend custominfo inactive ../../lang }}</span>
+                        <p {{#if inactive}}class="inactive"{{/if}} style="margin-right: {{rightspacecalc dateend}}%;">{{nev}}{{#if pozicio}} ({{pozicio}}){{/if}}{{#if custominfo}}<br><span>{{custominfo}}</span>{{/if}}</p>
                         {{/each}}
                 </div>
             </div>
