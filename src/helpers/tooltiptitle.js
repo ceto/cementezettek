@@ -1,5 +1,5 @@
 const handlebars = require('handlebars');
-module.exports = function(color, nev, pozicio, datestart, dateend, custominfo, lang) {
+module.exports = function(color, nev, pozicio, datestart, dateend, custominfo, inactive, lang) {
     var dateLabel;
     var dateLavelSD;
     var dateLavelED;
@@ -13,7 +13,7 @@ module.exports = function(color, nev, pozicio, datestart, dateend, custominfo, l
     dateLavelED = fmt.format(ed);
     dateLabel = dateLavelSD + ' – ' + dateLavelED;
 
-    var html = '<div class="ttcard ' + color + '">';
+    var html = '<div class="ttcard ' + color + (inactive == 1 ? ' inactive' : '') + '">';
     if (nev) html += '<span class="ttcard__name">' + nev + '</span>';
     if (pozicio) html += '<span class="ttcard__role">' + pozicio + '</span>';
     html += '<div class="ttcard__dates">';

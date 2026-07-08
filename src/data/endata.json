@@ -111,8 +111,10 @@
             {
                 "datestart": "2021.12.14.",
                 "dateend": "2030.12.03.",
+                "custominfo": "Update: his mandate was terminated by law as of 27 June 2026.",
                 "nev": "Dr. András Koltay",
-                "pozicio": "President"
+                "pozicio": "President",
+                "inactive": 1
             }
         ]
     },
@@ -124,8 +126,10 @@
             {
                 "datestart": "2021.12.04.",
                 "dateend": "2030.12.03.",
+                "custominfo": "Update: he was relieved of his duties as of 1 July 2026.",
                 "nev": "Dr. András Koltay",
-                "pozicio": "President"
+                "pozicio": "President",
+                "inactive": 1
             }
         ]
     },
@@ -150,8 +154,10 @@
             {
                 "datestart": "2024.01.15.",
                 "dateend": "2030.01.14.",
+                "custominfo": "Update: the Sovereignty Protection Office was abolished as of 15 July 2026.",
                 "nev": "Tamás Lánczi",
-                "pozicio": "President"
+                "pozicio": "President",
+                "inactive": 1
             }
         ]
     },

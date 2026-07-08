@@ -111,8 +111,10 @@
             {
                 "datestart": "2021.12.14.",
                 "dateend": "2030.12.03.",
+                "custominfo": "Frissítés: megbízatása 2026. június 27-ével törvényi úton megszűnt.",
                 "nev": "Dr. Koltay András",
-                "pozicio": "elnök"
+                "pozicio": "elnök",
+                "inactive": 1
             }
         ]
     },
@@ -124,8 +126,10 @@
             {
                 "datestart": "2021.12.04.",
                 "dateend": "2030.12.03.",
+                "custominfo": "Frissítés: tisztségéből 2026. július 1-jével felmentették.",
                 "nev": "Dr. Koltay András",
-                "pozicio": "elnök"
+                "pozicio": "elnök",
+                "inactive": 1
             }
         ]
     },
@@ -150,8 +154,10 @@
             {
                 "datestart": "2024.01.15.",
                 "dateend": "2030.01.14.",
+                "custominfo": "Frissítés: a Szuverenitásvédelmi Hivatalt 2026. július 15-ével megszüntették.",
                 "nev": "Lánczi Tamás",
-                "pozicio": "elnök"
+                "pozicio": "elnök",
+                "inactive": 1
             }
         ]
     },

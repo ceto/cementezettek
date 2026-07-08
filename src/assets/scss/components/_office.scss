@@ -104,19 +104,22 @@
         display: block;
     }
 
+    &:not(.inactive) {
+        &.cl1 {
+            border-color: $cl-1;
+        };
+        &.cl2 {
+            border-color: $cl-2;
+        };
+        &.cl3 {
+            border-color: $cl-3;
+        };
+        &.cl4 {
+            border-color: $cl-4;
+        };
 
-    &.cl1 {
-        border-color: $cl-1;
-    };
-    &.cl2 {
-        border-color: $cl-2;
-    };
-    &.cl3 {
-        border-color: $cl-3;
-    };
-    &.cl4 {
-        border-color: $cl-4;
-    };
+    }
+
 }
 
 
