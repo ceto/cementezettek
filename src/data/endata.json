@@ -46,8 +46,10 @@
             {
                 "datestart": "2025.06.11.",
                 "dateend": "2034.06.10.",
+                "custominfo": "Update: he resigned on 22 July 2026; his mandate ended on 25 August 2026.",
                 "nev": "Dr. Gábor Bálint Nagy",
-                "pozicio": "Prosecutor General"
+                "pozicio": "Prosecutor General",
+                "inactive": 1
             }
         ]
     },
@@ -183,7 +185,9 @@
                 "datestart": "2025.06.11.",
                 "dateend": "2037.06.09.",
                 "nev": "Dr. Péter Polt",
-                "pozicio": "President"
+                "pozicio": "President",
+                "custominfo": "Update: his term of office ended on 1 September 2026, pursuant to the 17th Amendment to the Fundamental Law, because he reached the age of 70.",
+                "inactive": 1
             },
             {
                 "datestart": "2025.09.26.",
@@ -201,13 +205,17 @@
                 "datestart": "2023.09.02.",
                 "dateend": "2035.09.01.",
                 "nev": "Dr. Mária Ádám Haszonicsné",
-                "pozicio": "member"
+                "pozicio": "member",
+                "custominfo": "Update: her term of office ended on 1 September 2026, pursuant to the 17th Amendment to the Fundamental Law, because she reached the age of 70.",
+                "inactive": 1
             },
             {
                 "datestart": "2023.09.02.",
                 "dateend": "2035.09.01.",
+                "custominfo": "Update: his term of office ended on 1 September 2026, pursuant to the 17th Amendment to the Fundamental Law, because he reached the age of 70.",
                 "nev": "Dr. Zoltán Lomnici",
-                "pozicio": "member"
+                "pozicio": "member",
+                "inactive": 1
             },
             {
                 "datestart": "2023.09.02.",
@@ -231,7 +239,9 @@
                 "datestart": "2020.04.15.",
                 "dateend": "2032.04.14.",
                 "nev": "Dr. Miklós Juhász",
-                "pozicio": "member"
+                "pozicio": "member",
+                "custominfo": "Update: his term of office ended on 1 September 2026, pursuant to the 17th Amendment to the Fundamental Law, because he reached the age of 70.",
+                "inactive": 1
             },
             {
                 "datestart": "2020.01.01.",

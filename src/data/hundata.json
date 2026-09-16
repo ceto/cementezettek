@@ -46,8 +46,10 @@
             {
                 "datestart": "2025.06.11.",
                 "dateend": "2034.06.10.",
+                "custominfo": "Frissítés: 2026. július 22-én lemondott, 2026. augusztus 25-tel megszűnt a megbízatása.",
                 "nev": "Dr. Nagy Gábor Bálint",
-                "pozicio": "legfőbb ügyész"
+                "pozicio": "legfőbb ügyész",
+                "inactive": 1
             }
         ]
     },
@@ -182,8 +184,10 @@
             {
                 "datestart": "2025.06.11.",
                 "dateend": "2037.06.09.",
+                "custominfo": "Frissítés: megbízatása 2026. szeptember 1-jén megszűnt az Alaptörvény 17. módosítása nyomán, mert betöltötte a 70. életévét.",
                 "nev": "Dr. Polt Péter",
-                "pozicio": "elnök"
+                "pozicio": "elnök",
+                "inactive": 1
             },
             {
                 "datestart": "2025.09.26.",
@@ -200,14 +204,18 @@
             {
                 "datestart": "2023.09.02.",
                 "dateend": "2035.09.01.",
+                "custominfo": "Frissítés: megbízatása 2026. szeptember 1-jén megszűnt az Alaptörvény 17. módosítása nyomán, mert betöltötte a 70. életévét.",
                 "nev": "Haszonicsné dr. Ádám Mária",
-                "pozicio": "tag"
+                "pozicio": "tag",
+                "inactive": 1
             },
             {
                 "datestart": "2023.09.02.",
                 "dateend": "2035.09.01.",
+                "custominfo": "Frissítés: megbízatása 2026. szeptember 1-jén megszűnt az Alaptörvény 17. módosítása nyomán, mert betöltötte a 70. életévét.",
                 "nev": "Dr. Lomnici Zoltán",
-                "pozicio": "tag"
+                "pozicio": "tag",
+                "inactive": 1
             },
             {
                 "datestart": "2023.09.02.",
@@ -230,8 +238,10 @@
             {
                 "datestart": "2020.04.15.",
                 "dateend": "2032.04.14.",
+                "custominfo": "Frissítés: megbízatása 2026. szeptember 1-jén megszűnt az Alaptörvény 17. módosítása nyomán, mert betöltötte a 70. életévét.",
                 "nev": "Dr. Juhász Miklós",
-                "pozicio": "tag"
+                "pozicio": "tag",
+                "inactive": 1
             },
             {
                 "datestart": "2020.01.01.",
