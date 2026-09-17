@@ -15,7 +15,7 @@
     {
         "hatalmiag": "Törvényhozás",
         "intezmeny": "Költségvetési Tanács",
-        "feladat": "Az Országgyűlés törvényhozási munkáját segítő testület. A költségvetési törvény elfogadásához a Tanács hozzájárulása szükséges, amit megtagadhat, ha meglátása szerint a költségvetési javaslat nem felel meg az államadósságfék-szabálynak. A már elfogadott költségvetés módosítását is megvétózhatja, és jelentősen korlátozhatja a kormány és a parlament pénzügyi mozgásterét.",
+        "feladat": "Az Országgyűlés törvényhozási munkáját segítő testület. A költségvetési törvény elfogadásához a Tanács hozzájárulása szükséges, amit megtagadhat, ha meglátása szerint a költségvetési javaslat nem felel meg az államadósságfék-szabálynak. A már elfogadott költségvetés módosítását is megvétózhatja, és jelentősen korlátozhatja a kormány és a parlament pénzügyi mozgásterét. Frissítés: vétójoga 2026. július 19-ével megszűnt.",
         "nevpoziciok": [
             {
                 "datestart": "2024.01.10.",
@@ -198,8 +198,10 @@
             {
                 "datestart": "2025.06.01.",
                 "dateend": "2037.05.31.",
+                "custominfo": "Frissítés: megbízatása 2026. július 19-én megszűnt az Alaptörvény 17. módosítása nyomán.",
                 "nev": "Dr. Hende Csaba",
-                "pozicio": "tag"
+                "pozicio": "tag",
+                "inactive": 1
             },
             {
                 "datestart": "2023.09.02.",
@@ -289,8 +291,10 @@
             {
                 "datestart": "2024.03.05.",
                 "dateend": "2029.03.04.",
+                "custominfo": "Frissítés: megbízatása az Alaptörvény 17. módosítása nyomán 2026. július 20-án megszűnt.",
                 "nev": "Dr. Sulyok Tamás",
-                "pozicio": ""
+                "pozicio": "",
+                "inactive": 1
             }
         ]
     },

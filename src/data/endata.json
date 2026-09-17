@@ -15,7 +15,7 @@
     {
         "hatalmiag": "Legislature",
         "intezmeny": "Fiscal Council",
-        "feladat": "It is a body supporting the legislative work of the Parliament. The adoption of the act on the budget requires the consent of the Council, which may refuse to give its consent if, in its view, the proposal of the budget does not comply with the rules on public debt control. It may also veto the amendment of the adopted budget and may significantly limit the margins of fiscal maneuver of the Government or the Parliament.",
+        "feladat": "It is a body supporting the legislative work of the Parliament. The adoption of the act on the budget requires the consent of the Council, which may refuse to give its consent if, in its view, the proposal of the budget does not comply with the rules on public debt control. It may also veto the amendment of the adopted budget and may significantly limit the margins of fiscal maneuver of the Government or the Parliament. Update: its veto power was abolished as of 19 July 2026.",
         "nevpoziciok": [
             {
                 "datestart": "2024.01.10.",
@@ -199,7 +199,9 @@
                 "datestart": "2025.06.01.",
                 "dateend": "2037.05.31.",
                 "nev": "Dr. Csaba Hende",
-                "pozicio": "member"
+                "pozicio": "member",
+                "custominfo": "Update: his term of office ended on 1 September 2026, pursuant to the 17th Amendment to the Fundamental Law, because he reached the age of 70.",
+                "inactive": 1
             },
             {
                 "datestart": "2023.09.02.",
@@ -290,7 +292,9 @@
                 "datestart": "2024.03.05.",
                 "dateend": "2029.03.04.",
                 "nev": "Dr. Tamás Sulyok",
-                "pozicio": ""
+                "pozicio": "",
+                "custominfo": "Update: his term of office ended on 20 July 2026, pursuant to the 17th Amendment to the Fundamental Law.",
+                "inactive": 1
             }
         ]
     },
